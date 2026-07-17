@@ -1,0 +1,14 @@
+bin/
+obj/
+.vs/
+artifacts/
+node_modules/
+tmp/
+TestResults/
+*.user
+*.suo
+*.tmp
+*.log
+.env
+.openwiki/
+hardware-private/

@@ -1,0 +1,13 @@
+{
+  "name": "beamforge-docs",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Pinned OpenWiki tooling for BeamForge documentation.",
+  "scripts": {
+    "docs:init": "set OPENWIKI_PROVIDER=openai-chatgpt&& set OPENWIKI_TELEMETRY_DISABLED=1&& openwiki code --init",
+    "docs:update": "set OPENWIKI_PROVIDER=openai-chatgpt&& set OPENWIKI_TELEMETRY_DISABLED=1&& openwiki code --update"
+  },
+  "devDependencies": {
+    "openwiki": "0.2.0"
+  }
+}
