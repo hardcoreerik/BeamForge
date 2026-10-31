@@ -37,3 +37,9 @@ npm run docs:init
 The npm scripts select the ChatGPT provider and disable OpenWiki telemetry. Generated content must follow `openwiki/INSTRUCTIONS.md` and may edit `AGENTS.md` only inside its marked block.
 
 BeamForge is not safety-rated equipment. Read [SAFETY.md](SAFETY.md) before connecting any laser.
+
+## Support development
+
+If this project is useful to you, consider supporting its development. Across ORC projects, support helps fund development time, hardware testing, receiver compatibility, and decoder work.
+
+[GitHub Sponsors](https://github.com/sponsors/hardcoreerik) · [Ko-fi](https://ko-fi.com/hardcoreerik) · [PayPal](https://paypal.me/hardcoreerik)
